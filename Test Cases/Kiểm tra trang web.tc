@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Kiểm tra trang web</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6360de23-b8a5-4947-b11e-39ba56ed6380</testCaseGuid>
+</TestCaseEntity>

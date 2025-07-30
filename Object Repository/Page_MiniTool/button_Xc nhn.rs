@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Xc nhn</name>
+   <tag></tag>
+   <elementGuidId>2166d059-2e9c-479b-8ecc-3d9183b93bae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn-submit']
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-submit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4fcf4b38-580d-44b9-9538-2fec59264ecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-submit</value>
+      <webElementGuid>27a38676-3fe9-476f-88fc-aa8ab231aa96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ba978652-f3bd-4837-8975-ee29b8dfa2f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ti-btn ti-btn-wave  text-base button-submit</value>
+      <webElementGuid>d7595416-99f2-4d02-9660-8877cb2b590a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                      Xác nhận</value>
+      <webElementGuid>423a11ee-4851-4dd2-84f4-1254789fa895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-submit&quot;)</value>
+      <webElementGuid>065636cc-8476-467d-8ff4-c880877d67df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btn-submit']</value>
+      <webElementGuid>e9726633-1c44-4d8a-a498-ee349c510410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-search-engine']/div[6]/button</value>
+      <webElementGuid>99a4573a-c36e-41bf-9d27-1149152dc09c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sumbit'])[1]/following::button[1]</value>
+      <webElementGuid>2df75592-fb54-401a-b410-2f30585add4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bing Tìm Kiếm'])[1]/following::button[1]</value>
+      <webElementGuid>2b71352d-3cf0-4bda-ae34-c4515af5c197</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Xác nhận']/parent::*</value>
+      <webElementGuid>de588fad-b0fc-49f1-8470-60f9c70d8110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>802c3a95-7b9b-4c25-895c-ffc9e72b8f59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btn-submit' and @type = 'button' and (text() = '
+                      Xác nhận' or . = '
+                      Xác nhận')]</value>
+      <webElementGuid>79edbdfd-de76-49cc-9c0b-cfc46ff6a876</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

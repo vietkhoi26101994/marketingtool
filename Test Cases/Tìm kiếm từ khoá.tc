@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tìm kiếm từ khoá</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5d678e11-db7c-4d34-b88f-8254a78dfc72</testCaseGuid>
+</TestCaseEntity>
